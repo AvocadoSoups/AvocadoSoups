@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvocadoSoups
-- 👀 I’m interested in game development and computer science
-- 🌱 I’m currently learning unity and c#
+- 👀 I’m interested in Software Development, Music Technology, and Backend Development
+- 🌱 I’m studying Computer Science at Texas State University
 - 📫 How to reach me Discord: AvocadoSoups#0368
 
 <!---
